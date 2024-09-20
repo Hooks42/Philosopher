@@ -67,7 +67,7 @@ Chaque philosophe est représenté par un thread indépendant et suit un cycle s
 
 Clonez ce dépôt sur votre machine locale :
 ```bash
-git clone https://github.com/username/philosopher.git
+git clone https://github.com/Hooks42/Philosopher.git
 cd philosopher/philo
 make
 ```
